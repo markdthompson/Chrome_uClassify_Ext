@@ -1,0 +1,14 @@
+Chrome_uClassify_Ext
+
+Description:
+
+A Google Chrome Extension that lets users classify the page they're currently on. It calls a remote service that uses our PHP5 uClassify Wrapper class and the gRaphael charting library.
+
+
+Contact:
+
+Smith & Thompson, Inc.
+http://www.smithandthompson.net
+
+Author:
+mark@smithandthompson.net

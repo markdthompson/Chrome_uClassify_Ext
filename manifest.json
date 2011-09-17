@@ -1,0 +1,13 @@
+{
+  "name": "uClassify Chrome Extension",
+  "version": "1.0",
+  "description": "A popup window extension that uses the uClassify classifier to classify the page your on.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "popup": "uclassify.html"
+  },
+  "permissions": [
+  	"tabs",
+  	"http://www.mediamesis.net/chrome-uclassify/*"
+  ]
+}
